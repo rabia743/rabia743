@@ -2,7 +2,6 @@
   <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="700"/>
 </p>
 <h1 align="center">Hi 👋, I'm rabia743</h1>
-<img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="300"/>
 <h3 align="center">A passionate Python developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabia743&label=Profile%20views&color=0e75b6&style=flat" alt="rabia743" /> </p>
