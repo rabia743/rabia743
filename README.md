@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Python projects**
 
-- 🌱 I’m currently learning **Web Scraping and Automation with Python 🚀**
+- 🌱 I’m currently learning **Completed Python; currently advancing with Pandas for data analysis 📊🚀**
 
 - 💬 Ask me about **Python basics**
 
