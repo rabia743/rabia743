@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python basics**
 
-- 📫 How to reach me **saniazafar193@gmail.com**
+- 📫 How to reach me **rz9032546@gmail.com**
 
 - ⚡ Fun fact **I love learning programming and building useful tools with Python.**
 
