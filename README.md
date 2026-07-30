@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Completed Python; currently advancing with Pandas for data analysis 📊🚀**
 
-- 💬 Ask me about **Python basics**
+- 💬 Ask me about **Python basics and advance Python**
 
 - 📫 How to reach me **rz9032546@gmail.com**
 
