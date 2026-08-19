@@ -1,33 +1,26 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="700"/>
 </p>
-<h1 align="center">Hi 👋, I'm rabia</h1>
-<h3 align="center">A Python developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabia743&label=Profile%20views&color=0e75b6&style=flat" alt="rabia743" /> </p>
+# 💫 About Me:
+🔭 I'm currently working on: Python projects and improving my programming skills<br>👯 I'm looking to collaborate on: Beginner-friendly Python projects<br>🤝 I'm looking for help with: Learning Machine Learning with Python and building real-world projects<br>🌱 I'm currently learning: Machine Learning with Python<br>💬 Ask me about: Python, Git & GitHub, Basic Pandas<br>⚡ Fun fact: I enjoy learning new technologies and turning my ideas into projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabia743" alt="rabia743" /></a> </p
 
-- 🔭 I’m currently working on **Python projects**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https: //www.linkedin.com/in/rabia-zafar-dev) 
 
-- 🌱 I’m currently learning **Completed Python; currently advancing with Pandas for data analysis 📊🚀**
+# 💻 Tech Stack:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 💬 Ask me about **Python basics and advance Python**
+# Tools:
 
-- 📫 How to reach me **rz9032546@gmail.com**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rabia743&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rabia743&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rabia743&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- ⚡ Fun fact **I love learning programming and building useful tools with Python.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabia743&show_icons=true&locale=en&layout=compact" alt="rabia743" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabia743&show_icons=true&locale=en" alt="rabia743" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabia743&" alt="rabia743" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
