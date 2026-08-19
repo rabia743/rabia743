@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="700"/>
-</p>
 
 # 💫 About Me:
 🔭 I'm currently working on: Python projects and improving my programming skills<br>👯 I'm looking to collaborate on: Beginner-friendly Python projects<br>🤝 I'm looking for help with: Learning Machine Learning with Python and building real-world projects<br>🌱 I'm currently learning: Machine Learning with Python<br>💬 Ask me about: Python, Git & GitHub, Basic Pandas<br>⚡ Fun fact: I enjoy learning new technologies and turning my ideas into projects.
