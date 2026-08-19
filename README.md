@@ -9,7 +9,10 @@
 # 💻 Tech Stack:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Tools:
+# 🛠️ Tools
+Git — Version Control
+GitHub — Code Hosting & Collaboration
+VS Code — Code Editor
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rabia743&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
