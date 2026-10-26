@@ -1,6 +1,16 @@
 
 # 💫 About Me:
-🔭 I'm currently working on: Python projects using(Pandas, Matplotlib & Seaborn) Data & Text Cleaning, Basic Feature Engineering, ML(Supervised learning (Linear & Logistic,decision tree & random forest,KNN,SVM)) and sharpening my programming fundamentals.<br>👯 I'm looking to collaborate on: Beginner-friendly Python projects and especially in data analysis and visualization. <br>🤝 I'm looking for help with: Learning Machine Learning, understanding real-world ML workflows, and building portfolio-ready projects. <br>🌱 I'm currently learning: Machine Learning <br>💬 Ask me about: Python, Git & GitHub, Pandas Matplotlib & Seaborn and Data & Text Cleaning, Basic Feature Engineering, Supervised learning(Linear & Logistic,decision tree & random forest,KNN,SVM) <br>⚡ Fun fact: I enjoy learning new technologies and turning my ideas into projects.
+🔭 I'm currently working on: Python projects using Pandas, Matplotlib & Seaborn, Data & Text Cleaning, Basic Feature Engineering, and ML (Supervised Learning: Linear Regression, Logistic Regression, Decision Tree, Random Forest, KNN, SVM; Unsupervised Learning: K-Means Clustering) while sharpening my programming fundamentals.
+
+👯 I'm looking to collaborate on: Beginner-friendly Python projects, especially in data analysis and visualization.
+
+🤝 I'm looking for help with: Learning Machine Learning, understanding real-world ML workflows, and building portfolio-ready projects.
+
+🌱 I'm currently learning: Machine Learning, including Unsupervised Learning and K-Means Clustering.
+
+💬 Ask me about: Python, Git & GitHub, Pandas, Matplotlib, Seaborn, Data & Text Cleaning, Basic Feature Engineering, Supervised Learning, and K-Means Clustering.
+
+⚡ Fun fact: I enjoy learning new technologies and turning my ideas into projects.
 
 
 ## 🌐 Socials:
