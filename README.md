@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 🔭 I'm currently working on: Python projects using Pandas, Matplotlib & Seaborn, Data & Text Cleaning, Basic Feature Engineering, and ML (Supervised Learning: Linear Regression, Logistic Regression, Decision Tree, Random Forest, KNN, SVM; Unsupervised Learning: K-Means Clustering,(PCA)—Dimensionality Reduction) while sharpening my programming fundamentals.
 
